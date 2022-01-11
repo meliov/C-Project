@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622220966 source:e:\coding\c language\code blox\tu-sofia\kursova_pik_2\main.c
+	"workplace.h"
+
+1622220966 e:\coding\c language\code blox\tu-sofia\kursova_pik_2\workplace.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1622220966 source:e:\coding\c language\code blox\tu-sofia\kursova_pik_2\writeplace.c
+	"workplace.h"
+
